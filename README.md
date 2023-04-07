@@ -9,7 +9,7 @@
 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IIBozhilov21&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117" alt="Ivelin Bozhilov github stats" /> 
   
-   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IIBozhilov21&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117"  height="195px" width="41%" alt="languages graph" alt="Ivelin Bozhilov github stats" />
+   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=IIBozhilov21&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117"  height="196px" width="41%" alt="languages graph" alt="Ivelin Bozhilov github stats" />
 </div>
 <br>
 
