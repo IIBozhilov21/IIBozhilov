@@ -13,25 +13,15 @@
 </div>
 <br>
 
-<h1 align="center"> 🖥️TECHNOLOGIES </h1>
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" width="50" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50" alt="javascript logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50" alt="css3 logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" width="50" alt="vscode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" width="50" alt="visualstudio logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50" alt="git logo"  />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" width="50" alt="figma logo"  />
-    <img src="https://cdn.discordapp.com/attachments/1019612109052592249/1090347701528432781/icons8-aseprite-50.png" height="55" width="55" alt="aseprite logo"  />
-<div>
-  <br>
-
   <h1 align="center"> 📌PINNED PROJECTS </h1>
+<div align="center"> 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SGSkuliev21&repo=baklava&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117)](https://github.com/SGSkuliev21/baklava)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codingburgas&repo=banica&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117)](https://github.com/codingburgas/banica)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SGSkuliev21&repo=baklava&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117)](https://github.com/SGSkuliev21/baklava) 
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MVKoleva21&repo=valium&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117)](https://github.com/MVKoleva21/valium)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MVKoleva21&repo=TBA&show_icons=true&count_private=true&hide_border=true&title_color=4C3460&icon_color=4C3460&text_color=4C3460&bg_color=0d1117)](https://github.com/MVKoleva21/TBA)
+
+  </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C3460&height=120&section=footer"/>
